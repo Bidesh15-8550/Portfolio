@@ -39,24 +39,7 @@ include('navbar.php');
       <div class="w3-dark-grey" style="height:28px;width:40%"></div>
     </div><br>
     
-    <div class="w3-row w3-center w3-padding-16 w3-section w3-light-grey">
-      <div class="w3-quarter w3-section">
-        <span class="w3-xlarge">11+</span><br>
-        Partners
-      </div>
-      <div class="w3-quarter w3-section">
-        <span class="w3-xlarge">7+</span><br>
-        Projects Done
-      </div>
-      <div class="w3-quarter w3-section">
-        <span class="w3-xlarge">8+</span><br>
-        Happy Clients
-      </div>
-      <div class="w3-quarter w3-section">
-        <span class="w3-xlarge">3+</span><br>
-        Meetings
-      </div>
-    </div>
+
     
     <!-- Grid for pricing tables -->
     <h3 class="w3-padding-16 w3-text-light-grey">Hire Me</h3>
@@ -72,9 +55,7 @@ include('navbar.php');
             <h2>$ 10</h2>
             <span class="w3-opacity">per month</span>
           </li>
-          <li class="w3-light-grey w3-padding-24">
-            <button class="w3-button w3-white w3-padding-large w3-hover-black">Sign Up</button>
-          </li>
+        
         </ul>
       </div>
 
@@ -89,9 +70,7 @@ include('navbar.php');
             <h2>$ 25</h2>
             <span class="w3-opacity">per month</span>
           </li>
-          <li class="w3-light-grey w3-padding-24">
-            <button class="w3-button w3-white w3-padding-large w3-hover-black">Sign Up</button>
-          </li>
+       
         </ul>
       </div>
     <!-- End Grid/Pricing tables -->
