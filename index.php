@@ -53,7 +53,7 @@ include('navbar.php');
           <li class="w3-padding-16">Mail Support</li>
           <li class="w3-padding-16">
             <h2>$ 10</h2>
-            <span class="w3-opacity">per month</span>
+            <span class="w3-opacity">Per month</span>
           </li>
         
         </ul>
@@ -68,7 +68,7 @@ include('navbar.php');
           <li class="w3-padding-16">Endless Support</li>
           <li class="w3-padding-16">
             <h2>$ 25</h2>
-            <span class="w3-opacity">per month</span>
+            <span class="w3-opacity">Per month</span>
           </li>
        
         </ul>
