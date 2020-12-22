@@ -38,6 +38,10 @@ include('navbar.php');
     <div class="w3-white">
       <div class="w3-dark-grey" style="height:28px;width:40%"></div>
     </div><br>
+    <p class="w3-wide">Wordpress</p>
+    <div class="w3-white">
+      <div class="w3-dark-grey" style="height:28px;width:30%"></div>
+    </div><br>
     
 
     
