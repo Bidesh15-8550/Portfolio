@@ -42,6 +42,10 @@ include('navbar.php');
     <div class="w3-white">
       <div class="w3-dark-grey" style="height:28px;width:30%"></div>
     </div><br>
+    <p class="w3-wide">Python</p>
+    <div class="w3-white">
+      <div class="w3-dark-grey" style="height:28px;width:20%"></div>
+    </div><br>
     
 
     
