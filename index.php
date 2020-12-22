@@ -13,7 +13,7 @@ include('navbar.php');
   <!-- Header/Home -->
   <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
     <h1 class="w3-jumbo"><span class="w3-hide-small">I'm</span> Bidesh Biswas Biki.</h1>
-    <p>Android Developer and Web Designer.</p>
+    <p>Developer & Researcher</p>
     <img src="images/me.jpg" alt="boy" class="w3-image" width="800" height="800">
   </header>
 
